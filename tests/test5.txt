@@ -1,0 +1,24 @@
+# Test case for no shipments from sydney, and more shipments from certain nodes and 0 from other nodes
+Refuelling 6 Sydney
+Refuelling 4 Shanghai
+Refuelling 4 Singapore
+Refuelling 6 Vancouver
+Refuelling 8 Manila
+Time 18 Sydney Shanghai
+Time 24 Sydney Singapore
+Time 18 Sydney Vancouver
+Time 10 Sydney Manila
+Time 10 Shanghai Singapore
+Time 24 Shanghai Vancouver
+Time 12 Shanghai Manila
+Time 24 Singapore Vancouver
+Time 22 Singapore Manila
+Time 20 Vancouver Manila
+Shipment Singapore Vancouver
+Shipment Singapore Sydney
+Shipment Singapore Manila
+Shipment Singapore Shanghai
+Shipment Vancouver Singapore
+Shipment Vancouver Sydney
+Shipment Vancouver Manila
+Shipment Vancouver Shanghai

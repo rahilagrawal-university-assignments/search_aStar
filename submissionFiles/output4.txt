@@ -1,0 +1,19 @@
+67406 nodes expanded
+cost = 422
+Ship Sydney to L
+Ship L to M
+Ship M to N
+Ship N to C
+Ship C to I
+Ship I to L
+Ship L to N
+Ship N to C
+Ship C to E
+Ship E to L
+Ship L to D
+Ship D to K
+Ship K to D
+Ship D to Sydney
+Ship Sydney to B
+Ship B to J
+Ship J to L

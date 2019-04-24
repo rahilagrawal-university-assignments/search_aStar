@@ -1,0 +1,45 @@
+# Testing program with much larger input
+Refuelling 20 Sydney
+Refuelling 15 Newcastle
+Refuelling 23 Melbourne
+Refuelling 11 Perth
+Refuelling 15 Brisbane
+Refuelling 6 Darwin
+Refuelling 19 Adelaide
+Refuelling 7 Hobart
+Time 16 Sydney Newcastle
+Time 87 Sydney Melbourne
+Time 393 Sydney Perth
+Time 91 Sydney Brisbane
+Time 397 Sydney Darwin
+Time 137 Sydney Adelaide
+Time 159 Sydney Hobart
+Time 102 Newcastle Melbourne
+Time 393 Newcastle Perth
+Time 77 Newcastle Brisbane
+Time 387 Newcastle Darwin
+Time 152 Newcastle Adelaide
+Time 174 Newcastle Hobart
+Time 340 Melbourne Perth
+Time 178 Melbourne Brisbane
+Time 374 Melbourne Darwin
+Time 72 Melbourne Adelaide
+Time 71 Melbourne Hobart
+Time 431 Perth Brisbane
+Time 414 Perth Darwin
+Time 269 Perth Adelaide
+Time 412 Perth Hobart
+Time 342 Brisbane Darwin
+Time 202 Brisbane Adelaide
+Time 249 Brisbane Hobart
+Time 302 Darwin Adelaide
+Time 446 Darwin Hobart
+Time 143 Adelaide Hobart
+Shipment Sydney Brisbane
+Shipment Darwin Melbourne
+Shipment Sydney Adelaide
+Shipment Adelaide Newcastle
+Shipment Darwin Perth
+Shipment Perth Hobart
+Shipment Perth Brisbane
+Shipment Hobart Sydney

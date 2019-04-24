@@ -1,0 +1,118 @@
+# Test for a very dense graph - Too many ports
+# My program computes the correct output for this test case but not under 10 seconds.
+Refuelling 8 Sydney
+Refuelling 2 B
+Refuelling 8 C
+Refuelling 1 D
+Refuelling 7 E
+Refuelling 8 F
+Refuelling 9 G
+Refuelling 6 H
+Refuelling 4 I
+Refuelling 5 J
+Refuelling 5 K
+Refuelling 5 L
+Refuelling 8 M
+Refuelling 6 N
+Time 14 B Sydney
+Time 17 B C
+Time 10 B D
+Time 19 B E
+Time 24 B F
+Time 13 B G
+Time 20 B H
+Time 25 B I
+Time 16 B J
+Time 10 B K
+Time 18 B L
+Time 10 B M
+Time 25 B N
+Time 28 C Sydney
+Time 23 C D
+Time 30 C E
+Time 30 C F
+Time 15 C G
+Time 12 C H
+Time 29 C I
+Time 12 C J
+Time 13 C K
+Time 28 C L
+Time 23 C M
+Time 12 C N
+Time 20 D Sydney
+Time 16 D E
+Time 30 D F
+Time 13 D G
+Time 23 D H
+Time 17 D I
+Time 22 D J
+Time 13 D K
+Time 22 D L
+Time 29 D M
+Time 28 D N
+Time 17 E Sydney
+Time 21 E F
+Time 20 E G
+Time 27 E H
+Time 26 E I
+Time 25 E J
+Time 12 E K
+Time 26 E L
+Time 14 E M
+Time 29 E N
+Time 25 F Sydney
+Time 19 F G
+Time 25 F H
+Time 26 F I
+Time 29 F J
+Time 11 F K
+Time 21 F L
+Time 10 F M
+Time 12 F N
+Time 24 G Sydney
+Time 20 G H
+Time 24 G I
+Time 21 G J
+Time 16 G K
+Time 25 G L
+Time 15 G M
+Time 27 G N
+Time 22 H Sydney
+Time 29 H I
+Time 17 H J
+Time 13 H K
+Time 23 H L
+Time 23 H M
+Time 15 H N
+Time 15 I Sydney
+Time 14 I J
+Time 13 I K
+Time 21 I L
+Time 15 I M
+Time 27 I N
+Time 27 J Sydney
+Time 22 J K
+Time 23 J L
+Time 20 J M
+Time 24 J N
+Time 29 K Sydney
+Time 28 K L
+Time 17 K M
+Time 26 K N
+Time 25 L Sydney
+Time 18 L M
+Time 17 L N
+Time 29 M Sydney
+Time 19 M N
+Time 27 N Sydney
+Shipment B J
+Shipment C I
+Shipment D Sydney
+Shipment E L
+Shipment I L
+Shipment J L
+Shipment L N
+Shipment M N
+Shipment D K
+Shipment Sydney L
+Shipment C E

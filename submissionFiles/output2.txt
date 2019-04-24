@@ -1,0 +1,13 @@
+2531 nodes expanded
+cost = 3347
+Ship Sydney to Brisbane
+Ship Brisbane to Darwin
+Ship Darwin to Perth
+Ship Perth to Brisbane
+Ship Brisbane to Darwin
+Ship Darwin to Melbourne
+Ship Melbourne to Perth
+Ship Perth to Hobart
+Ship Hobart to Sydney
+Ship Sydney to Adelaide
+Ship Adelaide to Newcastle
